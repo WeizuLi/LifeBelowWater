@@ -9,7 +9,7 @@
 
 项目Gitee链接如下
 
-[https://gitee.com/li-weizu/LifeBelowWater](https://gitee.com/li-weizu/LifeBelowWater)
+[https://github.com/WeizuLi/LifeBelowWater](https://github.com/WeizuLi/LifeBelowWater)
 
 
 
