@@ -7,7 +7,7 @@
 
 团队成员：李为祖、汪建忠、倪孙炀、邹志海、荣庆
 
-项目Gitee链接如下
+项目Github链接如下
 
 [https://github.com/WeizuLi/LifeBelowWater](https://github.com/WeizuLi/LifeBelowWater)
 
